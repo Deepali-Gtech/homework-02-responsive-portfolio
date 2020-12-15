@@ -1,1 +1,0 @@
-# homework-02-responsive-portfolio
